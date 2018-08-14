@@ -72,4 +72,7 @@ body::before {
 </div>
 
 <br><br>
-
+<!-- フッタ -->
+ <footer>
+ <span class="white">Copyright 2018/08/14 S.Hada</span>
+ </footer>
