@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/Nikko/20180814_030.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Nikko/0B7A9105.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
