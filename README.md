@@ -56,7 +56,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ click to show enlage, and back to click [←] botan. </span></h3>
+<h3><span class="white">↓ Click to see large size. Click [←] to go back </span></h3>
 <a href="20180814_001.JPG" class="preview"><img src="20180814_001.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20180814_002.JPG" class="preview"><img src="20180814_002.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20180814_003.JPG" class="preview"><img src="20180814_003.JPG" alt="サンプル画像" width="180" /></a>
