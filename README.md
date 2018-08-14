@@ -50,7 +50,7 @@ body::before {
    
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2018 (2561@Thailand)/08/14、Nikko 日光 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2561/08/14、Nikko 日光 !!!</marquee></span></h1>
 <p align="right">2018/08/14、Nikko 日光中禅寺湖、華厳の滝、東照宮、神橋</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
