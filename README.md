@@ -159,7 +159,11 @@ body::before {
 <a href="20180814_101.JPG" class="preview"><img src="20180814_101.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p align="right"><marquee direction="left" scrollamount="15" width="100%">8月14日,09:00、華厳の滝、Kegon fall</marquee></p>
+</body>
+</html>
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2018/08/14 S.Hada</span>
