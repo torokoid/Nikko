@@ -57,6 +57,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ Click to see large size. Click [←] to go back </span></h3>
+<a href="No24.JPG" class="preview"><img src="No24.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20180814_001.JPG" class="preview"><img src="20180814_001.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20180814_002.JPG" class="preview"><img src="20180814_002.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20180814_003.JPG" class="preview"><img src="20180814_003.JPG" alt="サンプル画像" width="180" /></a>
@@ -157,6 +158,7 @@ body::before {
 <a href="20180814_099.JPG" class="preview"><img src="20180814_099.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20180814_100.JPG" class="preview"><img src="20180814_100.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20180814_101.JPG" class="preview"><img src="20180814_101.JPG" alt="サンプル画像" width="180" /></a>
+<a href="No23.JPG" class="preview"><img src="No23.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
